@@ -1,0 +1,18 @@
+# Function Checklist
+
+ - [] Did you start the function definition with `def' ?
+ - [] Does the function name have only characters and `_` (underscore) characters?
+ - [] Did you put open parenthesis `(` right after the function name?
+ - [] Did you put arguments after the paretheseis `(` separated by commas?
+ - [] Did you make each argument unique (meaning no duplicate names)?
+ - [] Did you put a close parenthesis `)` after the arguments?
+ - [] Did you indent all lines of code you want in the function two spaces?
+ - [] Did you end the function with `end` lined up with the `def` above?
+ 
+ When you run ('use' or 'call') a function, check these things:
+ 
+ - [] Did you call/use/run this function by typing its name?
+ - [] Did you put the `(` character after the name to run it?
+ - [] Did you put the values you want into the parethesis separated by commas?
+ - [] Did you end the function call with a `)` character?
+ - [] Functions the do not have parmeters do not need the `()` after them, but it would be clearer if you wrote them anyway.
