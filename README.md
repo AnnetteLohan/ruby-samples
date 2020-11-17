@@ -1,3 +1,46 @@
+### Lesson 22 - what words / symbols you've encountered so far
+
+| Symbol | Meaning | Exercise | 
+| :--- | :--- | :--- |
+| `#` |  | 1 |
+| `puts` |  | 1 |
+| `#{}` |  | 3 |
+| `+` |  | 3 |
+| `-` |  | 3 |
+| `*` |  | 3 |
+| `/` |  | 3 |
+| `%` |  | 3 |
+| `=` |  | 4 |
+| `==` |  | 4 |
+| `false` |  | 6 |
+| `formatter` |  | 8 |
+| `%q{ }` |  | 9 |
+| `\n` |  | 10 |
+| `\t` |  | 10 |
+| `\r` |  | 10 |
+| `\u` |  | 10 |
+| `"""` |  | 10 |
+| `'''` |  | 10 |
+| `gets.chomp` |  | 11 |
+| `$stdin.gets.chomp` |  | 12 |
+| `some_variable.to_i` |  | 13 |
+| `some_variable.to_f` |  | 13 |
+| `prints` |  | 14 |
+| `ARGV` |  | 14 |
+| `file_object = open(filename)` |  | 15 |
+| `file_object.read` |  | 15 |
+| `file_object.close` |  | 15 |
+| `file_object.write` |  | 16 |
+| `file_object.truncate(0)` |  | 16 |
+| `file_object.length` |  | 17 |
+| `File.exist?(file_object)` |  | 17 |
+| `def ... end` |  | 18 |
+| `*args` |  | 18 |
+| `file_object.seek(0)` |  | 20 |
+| `+=` |  | 20 |
+| `return` |  | 21 |
+
+
 # Boolean Truth Tables
 
 |Not(!)|true?|
