@@ -1,3 +1,12 @@
+### Tips for checking code
+
+1. Write a comment above each line explaining to yourself what it does in English - the final product shouldn't have this, but this technique while you are coding the assignment can help you isolate errors.
+2. Read your .rb file backward.
+3. Read your .rb file out loud, saying even the characters.
+4. Research Research Research - if a concept doesn't look familiar, start getting in the habit of looking up the concepts online.
+5. Try it anyways. Even if you don't fully understand what is going on, just try creating code!
+
+
 ### Lesson 22 - what words / symbols you've encountered so far
 
 | Symbol | Meaning | Exercise | 
